@@ -4,6 +4,7 @@
 •	Utilized datasheets, Eagle Autodesk, and MultiSIM to design an appropriate switch regulator with >80% efficiency.
 
 **Listed Components**
+
 • 1x 100uF Capacitor to deal with input transient voltage noise.
 
 • 1x 1000uF Capacitor to deal with output voltage noise and loop stability
