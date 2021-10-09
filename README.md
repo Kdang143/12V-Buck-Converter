@@ -19,7 +19,8 @@
 
 ![Screenshot 2021-10-04 234703](https://user-images.githubusercontent.com/68084112/136661787-9dee80e3-075c-423e-9f7e-225b6b90bb73.png)
 
-**Board**\n
+**Board**
+
 ![Screenshot 2021-10-04 230539](https://user-images.githubusercontent.com/68084112/136661788-4b964c1f-fbf0-4771-99b7-4bf3e159a272.png)
 
 **Final Product**
